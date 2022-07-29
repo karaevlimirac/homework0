@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'HomeWork',
       theme: ThemeData(
         
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.amber,
       ),
       home: MyApp()
     );
